@@ -1,1 +1,1 @@
-A simple application written in Javascript to look-up the weather of a city using the OpenWeather API.
+A simple Javascript application integrating the OpenWeather API to look-up the weather of a city.
