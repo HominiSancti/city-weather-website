@@ -80,6 +80,7 @@ body {
 
 #description-container {
   display: flex;
+  font-weight: bold;
   justify-content: center;
   align-items: center;
   margin: 0.6rem 0;
@@ -91,8 +92,12 @@ body {
   align-items: center;
 }
 
-#details-container #umidity {
+#details-container #humidity {
   border-right: 1px solid #fff;
   margin: 0.6rem;
   padding: 0.6rem;
+}
+
+.hidden {
+  display: none;
 }
