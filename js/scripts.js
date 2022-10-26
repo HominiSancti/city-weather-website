@@ -1,4 +1,4 @@
-const apiKey = "9ef3579f897720b700d86100f0d3821c";
+const apiKey = config.apiKey;
 const apiCountryURL = "https://countryflagsapi.com/png/";
 const weatherIconURL = "https://openweathermap.org/img/wn/";
 
